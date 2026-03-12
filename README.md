@@ -13,8 +13,8 @@ It was created using **HTML and CSS only**, without JavaScript, and includes vis
 - Styled pages for “Home”, “Gallery”, and “About” sections  
 
 ## Tech Stack
-- HTML5  
-- CSS3  
+- HTML  
+- CSS 
 
 ## Notes
 - This project is **not deployed online**; it runs locally by opening the HTML files in a web browser.  
